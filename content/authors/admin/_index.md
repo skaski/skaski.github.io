@@ -32,7 +32,7 @@ interests:
   - Collaborative AI
 
 # Education to show in About widget
-education:
+#education:
 
 
 # Skills
