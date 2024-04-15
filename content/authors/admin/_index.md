@@ -77,8 +77,5 @@ Intelligence FCAI, and in the UK the Manchester Centre for AI
 Fundamentals. Part of my research group is at Aalto University and
 part in the University of Manchester.
 
-Recent featured papers:
-  - A new way to do controlled experiments in medicine: simulate the control
-    link: https://fcai.fi/news/2024/4/11/a-new-way-to-do-controlled-experiments-in-medicine-simulate-the-control
 
 {style="text-align: justify;"}
