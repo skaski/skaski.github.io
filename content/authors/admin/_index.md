@@ -54,9 +54,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=uF6H9jMAAAAJ&view_op=list_works&sortby=pubdate
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/skaski
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/skaski
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -65,7 +65,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+ #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -76,5 +76,9 @@ Finland. In Finland I lead the Finnish Center for Artificial
 Intelligence FCAI, and in the UK the Manchester Centre for AI
 Fundamentals. Part of my research group is at Aalto University and
 part in the University of Manchester.
+
+Recent featured papers:
+  - A new way to do controlled experiments in medicine: simulate the control
+    link: https://fcai.fi/news/2024/4/11/a-new-way-to-do-controlled-experiments-in-medicine-simulate-the-control
 
 {style="text-align: justify;"}
