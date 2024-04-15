@@ -197,21 +197,21 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-#  - block: contact
-#    id: contact
-#    content:
-#      title: Contact
+  - block: contact
+    id: contact
+    content:
+      title: Contact
 #      subtitle:
 #      text: |-
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
 #      # Contact (add or remove contact options as necessary)
-#      email: first.last@{aalto.fi OR manchester.ac.uk}
-#      address:
-#      street: Konemiehentie 2
-#	city: Espoo
-#	postcode: '00076 AALTO'
-#	country: Finland
-#	countrycode: FIN
+      email: first.last@{aalto.fi OR manchester.ac.uk}
+      address:
+      street: Konemiehentie 2
+	city: Espoo
+	postcode: '00076 AALTO'
+	country: Finland
+	countrycode: FIN
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #      # Choose a map provider in `params.yaml` to show a map from these coordinates
 #      coordinates:
@@ -240,6 +240,6 @@ sections:
 #        netlify:
 #          # Enable CAPTCHA challenge to reduce spam?
 #          captcha: false
-#    design:
-#      columns: '2'
+    design:
+      columns: '2'
 ---
