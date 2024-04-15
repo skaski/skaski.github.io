@@ -209,7 +209,6 @@ sections:
       address:
         street: Konemiehentie 2
         city: Espoo
-#        region: CA
 	postcode: '00076 AALTO'
 	country: Finland
 	countrycode: FIN
