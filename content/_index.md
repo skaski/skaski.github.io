@@ -207,7 +207,7 @@ sections:
 #      # Contact (add or remove contact options as necessary)
       email: first.last@{aalto.fi OR manchester.ac.uk}
       address:
-      street: Konemiehentie 2
+        street: Konemiehentie 2
 	city: Espoo
 	postcode: '00076 AALTO'
 	country: Finland
