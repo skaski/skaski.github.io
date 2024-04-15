@@ -11,7 +11,7 @@ authors:
   - Jussi Leinonen
   - Miika Koskinen
   - admin
-  - Harri L‰hdesm‰ki
+  - Harri Lahdesm√§ki
 
 # Author notes (optional)
 #author_notes:
