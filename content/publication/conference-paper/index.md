@@ -46,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: A new way to do controlled experiments in medicine: simulate the control
-   url: https://fcai.fi/news/2024/4/11/a-new-way-to-do-controlled-experiments-in-medicine-simulate-the-control
+   url: 'https://fcai.fi/news/2024/4/11/a-new-way-to-do-controlled-experiments-in-medicine-simulate-the-control'
 
 url_pdf: 'https://arxiv.org/pdf/2311.03002.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
