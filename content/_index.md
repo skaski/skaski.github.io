@@ -210,8 +210,8 @@ sections:
         street: Konemiehentie 2
         city: Espoo
 #        region: CA
-        postcode: '00076 AALTO'
-        country: Finland
+	postcode: '00076 AALTO'
+	country: Finland
 	countrycode: FIN
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #      # Choose a map provider in `params.yaml` to show a map from these coordinates
