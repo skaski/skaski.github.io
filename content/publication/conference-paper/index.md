@@ -18,11 +18,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: "March 2024"
+date: "01 March 2024"
 doi: '10.48550/arXiv.2311.03002'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "March 2024"
+publishDate: "01 March 2024"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
