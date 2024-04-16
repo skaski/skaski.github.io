@@ -206,19 +206,19 @@ sections:
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
 #      # Contact (add or remove contact options as necessary)
       email: 'first.last at aalto.fi or manchester.ac.uk'
-      address:
-        street: 'Konemiehentie 2'
-        city: 'Espoo'
-        postcode: '00076 AALTO'
-        country: 'Finland'
-        countrycode: 'FIN'
-      email: 'first.last@manchester.ac.uk'
-      address:
-        street: 'Kilburn Building'
-        city: 'Manchester'
-        postcode: 'M13 9PL'
-        country: 'UK'
-        countrycode: 'UK'
+#      address:
+#        street: 'Konemiehentie 2'
+#        city: 'Espoo'
+#        postcode: '00076 AALTO'
+#        country: 'Finland'
+#        countrycode: 'FIN'
+#      email: 'first.last@manchester.ac.uk'
+#      address:
+#        street: 'Kilburn Building'
+#        city: 'Manchester'
+#        postcode: 'M13 9PL'
+#        country: 'UK'
+#        countrycode: 'UK'
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #      # Choose a map provider in `params.yaml` to show a map from these coordinates
 #      coordinates:
