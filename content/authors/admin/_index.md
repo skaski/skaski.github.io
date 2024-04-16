@@ -73,8 +73,8 @@ highlight_name: true
 
 I am a Machine Learning Professor operating 50-50 in the UK and
 Finland. In Finland I lead the Finnish Center for Artificial
-Intelligence FCAI, and in the UK the Manchester Centre for AI
-Fundamentals. Part of my research group is at Aalto University and
+Intelligence [FCAI](https://fcai.fi), and in the UK the Manchester Centre for AI
+Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). Part of my research group is at Aalto University and
 part in the University of Manchester.
 
 
