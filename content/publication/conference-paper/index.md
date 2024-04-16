@@ -18,6 +18,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
+show_date: false
 date: "01 March 2024"
 doi: '10.48550/arXiv.2311.03002'
 
