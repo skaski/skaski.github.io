@@ -24,12 +24,13 @@ organizations:
     url: https://manchester.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include probabilistic machine learning
+bio: Machine learning professor
 
 # Interests to show in About widget
 interests:
-  - Probabilistic modelling
+  - Probabilistic modelling and Bayesian inference
   - Collaborative AI
+  - Collaboration with many fields including health, medicine, biology, user interaction, cognitive science, neuroscience
 
 # Education to show in About widget
 #education:
@@ -74,8 +75,20 @@ highlight_name: true
 I am a Machine Learning Professor operating 50-50 in the UK and
 Finland. In Finland I lead the Finnish Center for Artificial
 Intelligence [FCAI](https://fcai.fi), and in the UK the Manchester Centre for AI
-Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). Part of my research group is at Aalto University and
-part in the University of Manchester.
+Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). [Part of my research group](https://research.cs.aalto.fi/pml/) is at Aalto University and part in the University of Manchester.
 
+These may be of interest:
+- [CAIHU](https://sites.google.com/view/collab-ai-and-human-modeling/home) AAAI Bridge Program: Collaborative AI and Modeling of Humans
+
+Current activities:
+- [ELLIS Unit Helsinki](https://fcai.fi/ellis-unit-helsinki) and Manchester; ELLIS Fellow
+- [ELISE](https://www.elise-ai.eu) European Network of AI Excellence Centres
+- [Christabel Pankhurst Institute for Health Technology](https://www.pankhurst.manchester.ac.uk)
+- [UKRI Turing AI World-Leading Researcher Fellow](https://www.ukri.org/news/global-leaders-named-as-turing-ai-world-leading-researcher-fellows/)
+- [UKRI AI CDT in Decision Making for Complex Systems](https://ai-decisions-cdt.github.io/hugo-pages/)
+- [AI-DOC](https://fcai.fi/doctoral-program) 100 AI PhDs in Finland
+- Action editor: JMLR, IEEE TPAMI
+- Regularly Area Chair (or equiv) of ML conferences including NeurIPS, ICML, AAAI
+- I am very proud of the 36 PhD students and many postdocs I have mentored. Of my lab alumni, 21 have got faculty positions in Universities and the rest are entrepreneurs or in company positions (~50%) or staff members or postdocs at research institutes
 
 {style="text-align: justify;"}
