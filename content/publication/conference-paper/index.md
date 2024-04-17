@@ -39,7 +39,9 @@ abstract: Randomized controlled trials (RCTs) are the accepted standard for trea
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+- Generative models
+- Distributed inference
 
 # Display this page in the Featured widget?
 featured: true
