@@ -31,7 +31,7 @@ interests:
   - Probabilistic modelling and Bayesian inference
   - Collaborative AI for decision making and design
   - Collaboration with many fields including health, medicine, biology, user interaction, cognitive science, neuroscience; formulated as virtual simulation-based laboratories
-  - Specifically interesting in ML at the moment: distribution shifts, multiple tasks and sources, genearative models, experimental design, simulation-based inference, humans in the loop and theory of mind, privacy-preserving learning
+  - Distribution shifts, multiple tasks and sources, genearative models, experimental design, simulation-based inference, humans in the loop and theory of mind, privacy-preserving learning
 
 # Education to show in About widget
 #education:
