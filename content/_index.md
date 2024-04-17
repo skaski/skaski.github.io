@@ -171,7 +171,6 @@ sections:
   - block: collection
     content:
       title: Representative Recent Publications
-      text: Full list in [Google Scholar](https://scholar.google.com/citations?hl=en&user=uF6H9jMAAAAJ&view_op=list_works&sortby=pubdate) and my [group's pages](https://research.cs.aalto.fi/pml/publications.shtml) <br />
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/)
@@ -180,6 +179,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
+        text: Full list in [Google Scholar](https://scholar.google.com/citations?hl=en&user=uF6H9jMAAAAJ&view_op=list_works&sortby=pubdate) and my [group's pages](https://research.cs.aalto.fi/pml/publications.shtml)
     design:
       columns: '2'
       view: citation
