@@ -29,8 +29,9 @@ bio: Machine learning professor
 # Interests to show in About widget
 interests:
   - Probabilistic modelling and Bayesian inference
-  - Collaborative AI
-  - Collaboration with many fields including health, medicine, biology, user interaction, cognitive science, neuroscience
+  - Collaborative AI for decision making and design
+  - Collaboration with many fields including health, medicine, biology, user interaction, cognitive science, neuroscience; formulated as virtual simulation-based laboratories
+  - Specifically interesting in ML at the moment: distribution shifts, multiple tasks and sources, genearative models, experimental design, simulation-based inference, humans in the loop and theory of mind, privacy-preserving learning
 
 # Education to show in About widget
 #education:
@@ -80,7 +81,7 @@ Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). [Part of my research gro
 These may be of interest:
 - [CoGenAI:](https://fcai.fi/ellis-summer-school-2024/home) ELLIS Summer School on Collaborative and Generative AI, July 1-5, 2024, Helsinki
 - [ELLIS Robust ML Workshop in Helsinki:](https://sites.google.com/view/robustml2024/robust-ml-workshop) 27-28 June 2024
-- [ELLIS Robust ML Workshop in Oxford:](https://sites.google.com/view/robustml2024/robust-llms-workshop)
+- [ELLIS Robust LLMs Workshop in Oxford:](https://sites.google.com/view/robustml2024/robust-llms-workshop) 29-30 July 2024
 - [ELLIS Summer School on Machine Learning for Healthcare and Biology](https://www.idsai.manchester.ac.uk/connect/events/ellis-summer-school-2024/): 11-13 June 2024, Manchester
 - [CAIHU:](https://sites.google.com/view/collab-ai-and-human-modeling/home) AAAI Bridge Program: Collaborative AI and Modeling of Humans, Feb 2024
 
