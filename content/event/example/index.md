@@ -17,7 +17,7 @@ location: Heidelberg, Germany
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '13 March 2024'
+date: '13 March 2024 11:30'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -59,10 +59,3 @@ url_video: ''
 #projects:
 #  - example
 ---
-
-#Slides can be added in a few ways:
-
-#- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
