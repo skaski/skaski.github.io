@@ -78,10 +78,15 @@ Intelligence [FCAI](https://fcai.fi), and in the UK the Manchester Centre for AI
 Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). [Part of my research group](https://research.cs.aalto.fi/pml/) is at Aalto University and part in the University of Manchester.
 
 These may be of interest:
-- [CAIHU](https://sites.google.com/view/collab-ai-and-human-modeling/home) AAAI Bridge Program: Collaborative AI and Modeling of Humans
+- [CoGenAI:](https://fcai.fi/ellis-summer-school-2024/home) ELLIS Summer School on Collaborative and Generative AI, July 1-5, 2024, Helsinki
+- [ELLIS Robust ML Workshop in Helsinki:](https://sites.google.com/view/robustml2024/robust-ml-workshop) 27-28 June 2024
+- [ELLIS Robust ML Workshop in Oxford:](https://sites.google.com/view/robustml2024/robust-llms-workshop)
+- [ELLIS Summer School on Machine Learning for Healthcare and Biology](https://www.idsai.manchester.ac.uk/connect/events/ellis-summer-school-2024/): 11-13 June 2024, Manchester
+- [CAIHU:](https://sites.google.com/view/collab-ai-and-human-modeling/home) AAAI Bridge Program: Collaborative AI and Modeling of Humans, Feb 2024
 
 Current activities:
 - [ELLIS Unit Helsinki](https://fcai.fi/ellis-unit-helsinki) and Manchester; ELLIS Fellow
+- [ELLIS Robust ML Program](https://ellis.eu/programs/robust-machine-learning-group)
 - [ELISE](https://www.elise-ai.eu) European Network of AI Excellence Centres
 - [Christabel Pankhurst Institute for Health Technology](https://www.pankhurst.manchester.ac.uk)
 - [UKRI Turing AI World-Leading Researcher Fellow](https://www.ukri.org/news/global-leaders-named-as-turing-ai-world-leading-researcher-fellows/)
