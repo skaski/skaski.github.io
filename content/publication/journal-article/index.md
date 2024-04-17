@@ -9,9 +9,9 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
+show_date: false
 date: "01 March 2022"
 doi: "10.1214/20-BA1238"
-show_date: false
 
 
 # Schedule page publish date (NOT publication's date).
