@@ -74,14 +74,14 @@ Finland. In Finland I lead the Finnish Center for Artificial
 Intelligence [FCAI](https://fcai.fi), and in the UK the Manchester Centre for AI
 Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). [Part of my research group](https://research.cs.aalto.fi/pml/) is at Aalto University and part in the University of Manchester.
 
-These may be **of interest:**
+**Current events** maybe of interest:
 - [CoGenAI:](https://fcai.fi/ellis-summer-school-2024/home) ELLIS Summer School on Collaborative and Generative AI, July 1-5, 2024, Helsinki
 - [ELLIS Robust ML Workshop in Helsinki:](https://sites.google.com/view/robustml2024/robust-ml-workshop) 27-28 June 2024
 - [ELLIS Robust LLMs Workshop in Oxford:](https://sites.google.com/view/robustml2024/robust-llms-workshop) 29-30 July 2024
 - [ELLIS Summer School on Machine Learning for Healthcare and Biology](https://www.idsai.manchester.ac.uk/connect/events/ellis-summer-school-2024/): 11-13 June 2024, Manchester
 - [CAIHU:](https://sites.google.com/view/collab-ai-and-human-modeling/home) AAAI Bridge Program: Collaborative AI and Modeling of Humans, Feb 2024
 
-**Interests**
+**Research interests**
  - Probabilistic modelling and Bayesian inference
  - Collaborative AI for decision making and design
  - Collaboration with many fields including health, medicine, biology, user interaction, cognitive science, neuroscience; formulated as virtual simulation-based laboratories
