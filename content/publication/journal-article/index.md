@@ -10,12 +10,12 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 show_date: false
-date: "01/03 2022"
+date: "2022-03-01T00:00:00-01:00"
 doi: "10.1214/20-BA1238"
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "01/03 2022"
+publishDate: "2022-03-01T00:00:00-01:00"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

@@ -37,7 +37,9 @@ abstract: "High training costs of generative models and the need to fine-tune th
 # Summary. An optional shortened abstract.
 summary: "We propose a framework to compose iterative generative processes: GFlowNets and diffusion models."
 
-tags: []
+tags:
+- Generative models
+- Distributed inference
 
 # Display this page in the Featured widget?
 featured: false
