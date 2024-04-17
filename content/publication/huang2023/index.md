@@ -7,7 +7,7 @@ authors:
   - Daolang Huang
   - Ayush Bharti
   - Amauri Souza
-  - Luigi Acerbi,
+  - Luigi Acerbi
   - admin
 
 # Author notes (optional)
