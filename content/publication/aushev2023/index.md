@@ -3,7 +3,7 @@ title: "Online Simulator-Based Experimental Design for Cognitive Model Selection
 authors:
 - Alexander Aushev
 - Aini Putkonen
-- Grégoire Clarté
+- GrÃ©goire ClartÃ©
 - Suyog Chandramouli
 - Luigi Acerbi
 - admin
