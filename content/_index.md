@@ -171,7 +171,7 @@ sections:
   - block: collection
     content:
       title: Representative Recent Publications
-      content.archive.enable = false
+      content.archive.enable: false
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/)
