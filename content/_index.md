@@ -171,6 +171,7 @@ sections:
   - block: collection
     content:
       title: Representative Recent Publications
+      exclude_featured: true
       count: 100
 #      text: |-
 #        {{% callout note %}}
@@ -179,7 +180,6 @@ sections:
       filters:
         folders:
           - publication
-        content.archive.enable: false
       text: Full list in [Google Scholar](https://scholar.google.com/citations?hl=en&user=uF6H9jMAAAAJ&view_op=list_works&sortby=pubdate) and my [group's pages](https://research.cs.aalto.fi/pml/publications.shtml) <br /><br />
     design:
       columns: '2'
