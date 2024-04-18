@@ -169,9 +169,9 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    content.archive.enable: false
     content:
       title: Representative Recent Publications
-      content.archive.enable: false
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/)
