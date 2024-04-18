@@ -171,6 +171,7 @@ sections:
   - block: collection
     content:
       title: Representative Recent Publications
+      content.archive.text: "SEE MORE PUBLICATIONS"
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/)
