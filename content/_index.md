@@ -188,7 +188,7 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
-      count: 5
+      count: 10
       filters:
         folders:
           - event
