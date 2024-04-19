@@ -84,7 +84,7 @@ Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). [Part of my research gro
 **Research interests**
  - Probabilistic modelling and Bayesian inference
  - Collaborative AI for decision making and design
- - Collaboration with many fields including health, medicine, biology, user interaction, cognitive science, neuroscience; formulated as virtual simulation-based laboratories
+ - Collaboration with many fields including health, medicine, biology, user interaction, cognitive science, neuroscience; especially when formulated as virtual simulation-based laboratories
  - Specifically in ML: distribution shifts, multiple tasks and sources, generative models, experimental design, simulation-based inference, humans in the loop and theory of mind, privacy-preserving learning
 
 **Current activities:**
