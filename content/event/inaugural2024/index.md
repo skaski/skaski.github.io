@@ -2,11 +2,11 @@
 title: Collaborative Machine Learning for Research
 
 event: "Inaugural lecture, University of Manchester"
-event_url: https://www.ticketsource.co.uk/whats-on/manchester/engineering-building-a-lecture-theatre-b/inaugural-seminar-professor-sami-kaski/2024-04-23/13:00/t-xmxvqqm?direct-booking
+event_url: "https://www.ticketsource.co.uk/whats-on/manchester/engineering-building-a-lecture-theatre-b/inaugural-seminar-professor-sami-kaski/2024-04-23/13:00/t-xmxvqqm?direct-booking"
 
-location: University of Manchester
+location: "University of Manchester"
 address:
-  street: Engineering Building A, Lecture Theatre B
+  street: "Engineering Building A, Lecture Theatre B"
   city: Manchester
   postcode: M13 9PL
 #  street: 450 Serra Mall
@@ -21,14 +21,14 @@ abstract: 'I will bring together two traditionally separate lines of research: (
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-04-23T13:00:00-00:00'
-#date_end: '2030-06-01T15:00:00Z'
-all_day: true
+date_end: '2024-04-23T14:00:00Z'
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-04-23T13:00:00-00:00'
+publishDate: '2024-01-01T13:00:00-00:00'
 
-authors: []
-tags: []
+authors: admin
+#tags:
 
 # Is this a featured talk? (true/false)
 featured: false
