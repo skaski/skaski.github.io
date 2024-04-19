@@ -19,7 +19,7 @@ role: Professor of Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Aalto University
-    url: https://aalto.fi/
+    url: https://aalto.fi/en/
   - name: University of Manchester
     url: https://manchester.ac.uk/
 
@@ -63,7 +63,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
- #   link: uploads/resume.pdf
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
