@@ -1,10 +1,10 @@
 ---
-title: "Tekoäly ja tulevaisuus"
+title: "TekoÃ¤ly ja tulevaisuus"
 
-event: "Äyräpää symposiumi 2024"
+event: "Ã„yrÃ¤pÃ¤Ã¤ symposiumi 2024"
 event_url: "https://www.duodecim.fi/tuotteet-ja-palvelut/koulutus/ayrapaasymposiumi/"
 
-location: "Äyräpää symposiumi, Helsinki"
+location: "Ã„yrÃ¤pÃ¤Ã¤ symposiumi, Helsinki"
 address:
 #  street: "Engineering Building A, Lecture Theatre B"
 #  city: Manchester
