@@ -4,7 +4,7 @@ title: "Interview on legislation to regulate AI technologies in the UK"
 event: "BBC Newsroom"
 event_url: "https://aifringe.org/events/closing-the-ai-skills-gap"
 
-location: ""
+location: "BBC Newsroom"
 #address:
 #  street: "Engineering Building A, Lecture Theatre B"
 #  city: Manchester
