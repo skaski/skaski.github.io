@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: User modeling for cooperative AI
+title: "Tutorial: User modeling for cooperative AI"
 
 event: "AAAI-24 Bridge Program CAIHU, Collaborative AI and Modeling of Humans"
 event_url: "https://sites.google.com/view/collab-ai-and-human-modeling/home"
