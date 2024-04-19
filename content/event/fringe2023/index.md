@@ -4,7 +4,7 @@ title: "AI Fundamentals @Manchester and why they matter"
 event: "Closing the AI skills gap, AI Summit Fringe Event"
 event_url: "https://aifringe.org/events/closing-the-ai-skills-gap"
 
-location: "ID Manchester"
+location: "AI Summit Fringe, ID Manchester"
 address:
 #  street: "Engineering Building A, Lecture Theatre B"
   city: Manchester

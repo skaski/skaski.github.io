@@ -4,7 +4,7 @@ title: "Tutorial: User modeling for cooperative AI"
 event: "AAAI-24 Bridge Program CAIHU, Collaborative AI and Modeling of Humans"
 event_url: "https://sites.google.com/view/collab-ai-and-human-modeling/home"
 
-location: "Vancouver, BC"
+location: "AAAI-24, Vancouver, BC"
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford

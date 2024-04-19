@@ -4,7 +4,7 @@ title: Collaborative Machine Learning for Science
 event: "EMBO|EMBL Symposium: AI and Biology"
 event_url: https://www.embl.org/about/info/course-and-conference-office/events/ees24-01/
 
-location: Heidelberg, Germany
+location: "EMBL, Heidelberg, Germany"
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
