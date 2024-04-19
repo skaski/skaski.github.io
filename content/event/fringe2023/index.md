@@ -2,7 +2,7 @@
 title: "AI Fundamentals @Manchester and why they matter"
 
 event: "Closing the AI skills gap, AI Summit Fringe Event"
-event_url: "https://www.ticketsource.co.uk/whats-on/manchester/engineering-building-a-lecture-theatre-b/inaugural-seminar-professor-sami-kaski/2024-04-23/13:00/t-xmxvqqm?direct-booking"
+event_url: "https://aifringe.org/events/closing-the-ai-skills-gap"
 
 location: "ID Manchester"
 address:
