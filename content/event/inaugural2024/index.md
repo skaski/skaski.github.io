@@ -6,9 +6,9 @@ event_url: https://www.ticketsource.co.uk/whats-on/manchester/engineering-buildi
 
 location: University of Manchester
 address:
-	street: Engineering Building A, Lecture Theatre B
-	city: Manchester
-	postcode M13 9PL
+  street: Engineering Building A, Lecture Theatre B
+  city: Manchester
+  postcode M13 9PL
 #  street: 450 Serra Mall
 #  city: Stanford
 #  region: CA
