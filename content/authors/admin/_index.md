@@ -24,7 +24,7 @@ organizations:
     url: https://manchester.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Machine learning professor
+#bio: Machine learning professor
 
 # Interests to show in About widget
 #interests:
