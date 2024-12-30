@@ -43,8 +43,8 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: fa-bluesky
-    icon_pack: fa-brands
+  - icon: bluesky
+    icon_pack: fab
     link: https://bsky.app/profile/samikaski.bsky.social
     label: Follow me on bluesky
     display:
