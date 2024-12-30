@@ -43,10 +43,10 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: x
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/samikaski
-    label: Follow me on X
+    link: https://bsky.app/profile/samikaski.bsky.social
+    label: Follow me on bluesky
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
