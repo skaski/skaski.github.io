@@ -180,7 +180,7 @@ sections:
         exclude_featured: true
         folders:
           - publication
-      text: Full list in [Google Scholar](https://scholar.google.com/citations?hl=en&user=uF6H9jMAAAAJ&view_op=list_works&sortby=pubdate) and my [group's pages](https://research.cs.aalto.fi/pml/publications.shtml) <br /><br />
+      text: All papers in [Google Scholar](https://scholar.google.com/citations?hl=en&user=uF6H9jMAAAAJ&view_op=list_works&sortby=pubdate) and my [group's pages](https://research.cs.aalto.fi/pml/publications.shtml). Or old-school [list](https://users.aalto.fi/~skaski/kaski_publ.pdf). <br /><br />
     design:
       columns: '2'
       view: citation
