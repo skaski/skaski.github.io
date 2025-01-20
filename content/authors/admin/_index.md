@@ -74,12 +74,18 @@ Finland. In Finland I lead the Finnish Center for Artificial
 Intelligence [FCAI](https://fcai.fi), and in the UK the Manchester Centre for AI
 Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). [Part of my research group](https://research.cs.aalto.fi/pml/) is at Aalto University and part in the University of Manchester.
 
-**Current events** maybe of interest:
+**News**
+- [ELLIS Institute Finland] established. Stay tuned for more news and call for PI/Prof positions
+- I am hiring: Postdocs [Helsinki](https://www.aalto.fi/en/open-positions/postdoctoral-researcher-positions-in-probabilistic-machine-learning-research-group-aalto-university-0), DL February 2, 2025, and [Manchester, UK](https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=31081), DL February 7, 2025; [PhD students](https://www.ai-decisions-cdt.ac.uk/apply/) in Manchester, DL January 31, 2025. You can also choose to work with me and collaborators at [FCAI](https://fcai.fi/winter-2025-researcher-positions-in-ai-and-machine-learning): Postdoc, PhD student, DL February 2, 2025
+- [CAIHU:](https://sites.google.com/view/collab-ai-and-human-modeling/home) AAAI Bridge Program: Collaborative AI and Modeling of Humans, Feb 2024
+
+
+**Earlier events**:
 - [CoGenAI:](https://fcai.fi/ellis-summer-school-2024/home) ELLIS Summer School on Collaborative and Generative AI, July 1-5, 2024, Helsinki
 - [ELLIS Robust ML Workshop in Helsinki:](https://sites.google.com/view/robustml2024/robust-ml-workshop) 27-28 June 2024
 - [ELLIS Robust LLMs Workshop in Oxford:](https://sites.google.com/view/robustml2024/robust-llms-workshop) 29-30 July 2024
 - [ELLIS Summer School on Machine Learning for Healthcare and Biology](https://www.idsai.manchester.ac.uk/connect/events/ellis-summer-school-2024/): 11-13 June 2024, Manchester
-- [CAIHU:](https://sites.google.com/view/collab-ai-and-human-modeling/home) AAAI Bridge Program: Collaborative AI and Modeling of Humans, Feb 2024
+- [CAIHU:](https://sites.google.com/view/caihu25/home) AAAI Bridge Program: Collaborative AI and Modeling of Humans, Feb 25, 2025. Philadelphia, PA
 
 **Research interests**
  - Probabilistic modelling and Bayesian inference
