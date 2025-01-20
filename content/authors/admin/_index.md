@@ -77,7 +77,7 @@ Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). [Part of my research gro
 **News**
 - [ELLIS Institute Finland](https://fcai.fi/ellis-institute-finland) established. Stay tuned for more news and call for PI/Prof positions
 - I am hiring: Postdocs in [Helsinki](https://www.aalto.fi/en/open-positions/postdoctoral-researcher-positions-in-probabilistic-machine-learning-research-group-aalto-university-0), DL February 2, 2025, and [Manchester, UK](https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=31081), DL February 7, 2025; [PhD students](https://www.ai-decisions-cdt.ac.uk/apply/) in Manchester, DL January 31, 2025. You can also choose to work with me and collaborators at [FCAI](https://fcai.fi/winter-2025-researcher-positions-in-ai-and-machine-learning): Postdoc, PhD student, DL February 2, 2025
-- [CAIHU:](https://sites.google.com/view/collab-ai-and-human-modeling/home) AAAI Bridge Program: Collaborative AI and Modeling of Humans, Feb 2024
+- [CAIHU:](https://sites.google.com/view/caihu25/home) AAAI Bridge Program: Collaborative AI and Modeling of Humans, Feb 25, 2025
 
 
 **Earlier events**:
