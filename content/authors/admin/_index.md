@@ -18,6 +18,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: ELLIS Institute Finland
+    url: https://ellisinstitute.fi
   - name: Aalto University
     url: https://aalto.fi/en/
   - name: University of Manchester
@@ -70,9 +72,9 @@ highlight_name: true
 ---
 
 I am a Machine Learning Professor operating 50-50 in the UK and
-Finland. In Finland I lead the Finnish Center for Artificial
+Finland. I am the founding director of [ELLIS Institue Finland](https://ellisinstitute.fi). In Finland I also lead the Finnish Center for Artificial
 Intelligence [FCAI](https://fcai.fi), and in the UK the Manchester Centre for AI
-Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). [Part of my research group](https://research.cs.aalto.fi/pml/) is at Aalto University and part in the University of Manchester.
+Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). [Part of my research group](https://research.cs.aalto.fi/pml/) is at Aalto University and part in the University of Manchester. I will do my best to update the rest of this page soon but up-to-date list of papers is in Google Scholar.
 
 **News**
 - [ELLIS Institute Finland](https://fcai.fi/ellis-institute-finland) established. Stay tuned for more news and call for PI/Prof positions
