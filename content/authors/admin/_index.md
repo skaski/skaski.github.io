@@ -71,10 +71,17 @@ social:
 highlight_name: true
 ---
 
-I am a Machine Learning Professor operating 50-50 in the UK and
-Finland. I am the founding director of [ELLIS Institue Finland](https://ellisinstitute.fi). In Finland I also lead the Finnish Center for Artificial
-Intelligence [FCAI](https://fcai.fi), and in the UK the Manchester Centre for AI
-Fundamentals [AI-FUN](https://ai-fun.manchester.ac.uk). [Part of my research group](https://research.cs.aalto.fi/pml/) is at Aalto University and part in the University of Manchester. I will do my best to update the rest of this page soon but up-to-date list of papers is in Google Scholar.
+I am the founding director of [ELLIS Institue
+Finland](https://ellisinstitute.fi), a Machine Learning Professor
+operating 50-50 in the UK and Finland.  In Finland I also lead the
+Finnish Center for Artificial Intelligence [FCAI](https://fcai.fi),
+and in the UK the Manchester Centre for AI Fundamentals
+[AI-FUN](https://ai-fun.manchester.ac.uk). [Part of my research
+group](https://research.cs.aalto.fi/pml/) is at Aalto University and
+part in the University of Manchester. I will do my best to update the
+rest of this page soon but my up-to-date list of papers is always in
+[Google
+Scholar](https://scholar.google.com/citations?hl=en&user=uF6H9jMAAAAJ&view_op=list_works&sortby=pubdate).
 
 **News**
 - [ELLIS Institute Finland](https://fcai.fi/ellis-institute-finland) established. Stay tuned for more news and call for PI/Prof positions
