@@ -22,14 +22,14 @@ repository               : "skaski.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "kaski.jpg"
+  name             : "Samuel Kaski"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Machine learning professor"
+  location         : #"Earth"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "samuel.kaski@aalto.fi" 
 
   # Academic websites
   academia         : # URL
