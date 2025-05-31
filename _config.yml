@@ -22,7 +22,7 @@ repository               : "skaski.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kaski.png"
+  avatar           : "profile.png"
   name             : "Samuel Kaski"
   pronouns         : # example: "she/her"  
   bio              : "Machine learning professor"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "@samikaski.bsky.app" # Replace this with you Bluesky username
+  bluesky          : "@samikaski.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "samuel-kaski-27790"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
