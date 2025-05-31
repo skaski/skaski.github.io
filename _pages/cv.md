@@ -10,4 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-https://kaski-lab.com/uploads/resume.pdf
+(https://kaski-lab.com/uploads/resume.pdf)
+
