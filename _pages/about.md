@@ -30,8 +30,6 @@ Current activities
 ======
 - [ELLIS Unit Helsinki](https://fcai.fi/ellis-unit-helsinki) and Manchester; ELLIS Fellow
 - [ELLIS Robust ML Program](https://ellis.eu/programs/robust-machine-learning-group)
-[- [ELISE](https://www.elise-ai.eu) European Network of AI Excellence Centres] # 
-[- [Christabel Pankhurst Institute for Health Technology](https://www.pankhurst.manchester.ac.uk)] #
 - [UKRI Turing AI World-Leading Researcher Fellow](https://www.ukri.org/news/global-leaders-named-as-turing-ai-world-leading-researcher-fellows/)
 - [UKRI AI CDT in Decision Making for Complex Systems](https://ai-decisions-cdt.github.io/hugo-pages/)
 - [AI-DOC](https://fcai.fi/doctoral-program) 100 AI PhDs in Finland
