@@ -2,8 +2,8 @@
 title: "New Fundamentals"
 collection: talks
 type: "Opening address"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "ELLIS Institute Finland"
+permalink: /talks/2025-05-21-prelaunch
+venue: "Pre-launch of ELLIS Institute Finland"
 date: 2025-05-21
 location: "Espoo, Finland"
 ---
