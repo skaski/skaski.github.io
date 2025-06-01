@@ -28,7 +28,9 @@ Research interests
 
 Publications
 ======
-In [Google Scholar](site.author.googlescholar), in [bibtex](/about.html)
+In [Google
+Scholar](https://scholar.google.com/citations?hl=en&user=uF6H9jMAAAAJ&view_op=list_works&sortby=pubdate),
+in [bibtex](/files/bibtex1.bib)
 
 Current activities
 ======
