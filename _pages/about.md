@@ -26,6 +26,10 @@ Research interests
  - Collaboration with many fields including health, medicine, biology, user interaction, cognitive science, neuroscience; especially when formulated as virtual simulation-based laboratories
  - Timely in ML: distribution shifts, multiple tasks and sources, generative models, experimental design, simulation-based inference, humans in the loop and theory of mind, privacy-preserving learning
 
+Publications
+======
+In [Google Scholar](site.author.googlescholar), in [bibtex](/about.html)
+
 Current activities
 ======
 - [ELLIS Unit Helsinki](https://fcai.fi/ellis-unit-helsinki) and Manchester; ELLIS Fellow
