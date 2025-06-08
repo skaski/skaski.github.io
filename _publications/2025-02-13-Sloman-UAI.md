@@ -7,7 +7,7 @@ excerpt: 'Opens doors towards coping with negative transfer.'
 date: 2025-02-13
 venue: 'UAI'
 paperurl: 'https://arxiv.org/abs/2411.03263'
-citation: 'Sabina J. Sloman, Julien Martinelli, Samuel Kaski (2025) &quot;Proxy-informed Bayesian transfer learning with unknown sources,&quot; in <i>Proc. UAI 2025</i> accepted for publication.'
+citation: 'Sabina J. Sloman, Julien Martinelli, Samuel Kaski (2025) &quot;Proxy-informed Bayesian transfer learning with unknown sources,&quot; in <i>Proc. UAI 2025,</i> accepted for publication.'
 ---
 
 Abstract: Generalization outside the scope of one's training data

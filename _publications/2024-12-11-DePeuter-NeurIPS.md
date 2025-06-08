@@ -7,7 +7,7 @@ excerpt: 'Better results in expert-in-the-loop tasks with an amortized cognitive
 date: 2024-12-16
 venue: 'NeurIPS'
 paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/hash/df559d92fba6dc86dec1a2be59ebfce3-Abstract-Conference.html'
-citation: 'Sebastiaan De Peuter, Shibei Zhu, Yujia Guo, Andrew Howes, Samuel Kaski (2024) &quot; Preference learning of latent decision utilities with a human-like model of preferential choice,&quot; in <i>Advances in Neural Information Processing Systems</i> 37:123608--123636. Curran Associates, Inc.'
+citation: 'Sebastiaan De Peuter, Shibei Zhu, Yujia Guo, Andrew Howes, Samuel Kaski (2024) &quot; Preference learning of latent decision utilities with a human-like model of preferential choice,&quot; in <i>Advances in Neural Information Processing Systems</i> 37:123608-123636. Curran Associates, Inc.'
 ---
 
 Abstract: Preference learning methods make use of models of human
