@@ -7,7 +7,7 @@ excerpt: 'Amortized experimental design for a downstream decision-making utility
 date: 2024-12-16
 venue: 'NeurIPS'
 paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/hash/c59f05d7ab3638b138cc61f32e1a7cd1-Abstract-Conference.html'
-citation: 'Daolang Huang, Yujia Guo, Luigi Acerbi, Samuel Kaski (2024). &quot;Amortized Bayesian experimental design for decision-making.&quot; in<i>Advances in Neural Information Processing Systems</i>. 37:109460--109486. Curran Associates, Inc.'
+citation: 'Daolang Huang, Yujia Guo, Luigi Acerbi, Samuel Kaski (2024) &quot;Amortized Bayesian experimental design for decision-making,&quot; in <i>Advances in Neural Information Processing Systems</i> 37:109460--109486. Curran Associates, Inc.'
 ---
 
 Abstract: Many critical decisions, such as personalized medical
