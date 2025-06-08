@@ -32,7 +32,7 @@ Current activities
 - [ELLIS Institute Finland](https://ellisinstitute.fi); ELLIS Fellow
 - [ELLIS Board Member](https://ellis.eu/board) 2025-
 - [ELLIS Robust ML Program](https://ellis.eu/programs/robust-machine-learning-group)
-- [UKRI Turing AI World-Leading Researcher Fellow](https://www.ukri.org/news/global-leaders-named-as-turing-ai-world-leading-researcher-fellows/)
+- [UKRI Turing AI World-Leading Researcher Fellow](https://www.gov.uk/government/publications/turing-artificial-intelligence-fellowships/turing-artificial-intelligence-fellowships/)
 - [Manchester Centre for AI Fundamentals](https://www.ai-fun.manchester.ac.uk) and ELLIS Unit Manchester
 - [UKRI AI CDT in Decision Making for Complex Systems](https://ai-decisions-cdt.github.io/hugo-pages/)
 - [AI-DOC](https://fcai.fi/doctoral-program) 100 AI PhDs in Finland
