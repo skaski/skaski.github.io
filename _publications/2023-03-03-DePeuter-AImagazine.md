@@ -3,7 +3,7 @@ title: "Toward AI assistants that let designers design"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-03-03-DePeuter-AImagazine
-excerpt: 'Opens doors to AI assistance in desing, instead of automation of design.'
+excerpt: 'Opens doors to AI assistance in design, instead of automation of design.'
 date: 2023-03-03
 venue: 'AI magazine'
 paperurl: 'https://doi.org/10.1002/aaai.12077'

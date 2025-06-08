@@ -3,11 +3,11 @@ title: "Meta-Analysis of Bayesian Analyses"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-04-Blomstedt-BA
-excerpt: 'The concept of virtual laboratories gives a new perspective to how AI and domain scientists can together produce better science.'
+excerpt: 'How to do meta-analysis when researchers have published their models' posterior distributions.'
 date: 2024-10-04
 venue: 'Bayesian Analysis'
 paperurl: 'https://doi.org/10.1214/24-BA1465'
-citation: 'Paul Blomstedt, Diego Mesquita, Omar Rivasplata, Jarno Lintusaari, Tuomas Sivula, Jukka Corander, Samuel Kaski (2024) &quot;Meta-Analysis of Bayesian Analyses.&quot; <i>Bayesian Analysis</i> Advance publication.'
+citation: 'Paul Blomstedt, Diego Mesquita, Omar Rivasplata, Jarno Lintusaari, Tuomas Sivula, Jukka Corander, Samuel Kaski (2024) &quot;Meta-Analysis of Bayesian Analyses.&quot; <i>Bayesian Analysis.</i> Advance publication.'
 ---
 
 Abstract: Meta-analysis aims to generalize results from multiple
