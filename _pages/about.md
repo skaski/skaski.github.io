@@ -26,15 +26,11 @@ Research interests
  - Collaboration with many fields including health, medicine, biology, user interaction, cognitive science, neuroscience; especially when formulated as virtual simulation-based laboratories
  - Timely in ML: distribution shifts, multiple tasks and sources, generative models, experimental design, simulation-based inference, humans in the loop and theory of mind, privacy-preserving learning
 
-Publications
-======
-In [Google
-Scholar](https://scholar.google.com/citations?hl=en&user=uF6H9jMAAAAJ&view_op=list_works&sortby=pubdate),
-in [bibtex](/files/bibtex1.bib)
 
 Current activities
 ======
-- [ELLIS Unit Helsinki](https://fcai.fi/ellis-unit-helsinki) and Manchester; ELLIS Fellow
+- [ELLIS Institute Finland](https://ellisinstitute.fi) and ELLIS Unit Manchester; ELLIS Fellow
+- [ELLIS Board Member](https://ellis.eu/board) 2025-
 - [ELLIS Robust ML Program](https://ellis.eu/programs/robust-machine-learning-group)
 - [UKRI Turing AI World-Leading Researcher Fellow](https://www.ukri.org/news/global-leaders-named-as-turing-ai-world-leading-researcher-fellows/)
 - [UKRI AI CDT in Decision Making for Complex Systems](https://ai-decisions-cdt.github.io/hugo-pages/)

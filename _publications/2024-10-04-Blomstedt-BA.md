@@ -3,7 +3,7 @@ title: "Meta-Analysis of Bayesian Analyses"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-04-Blomstedt-BA
-excerpt: 'How to do meta-analysis when researchers have published their models posterior distributions.'
+excerpt: 'How to do meta-analysis when researchers have published posterior distributions of their models.'
 date: 2024-10-04
 venue: 'Bayesian Analysis'
 paperurl: 'https://doi.org/10.1214/24-BA1465'
