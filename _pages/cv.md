@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-[CV](https://kaski-lab.com/uploads/resume.pdf)
+[CV](https://kaski-lab.com/files/resume.pdf)
 
