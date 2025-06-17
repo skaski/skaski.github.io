@@ -29,7 +29,7 @@ Research interests
 
 Current activities
 ======
-- [ERC Advanced Grant](https://www.ellisinstitute.fi/a-revolution-for-rd-with-the-missing-link-of-machine-learning-project-envisions-human-ai-expert) ODD-ML: Out-of-distribution deployable machine learning 2026-
+- [ERC Advanced Grant ODD-ML](https://www.ellisinstitute.fi/a-revolution-for-rd-with-the-missing-link-of-machine-learning-project-envisions-human-ai-expert): Out-of-distribution deployable machine learning 2026-
 - [ELLIS Institute Finland](https://ellisinstitute.fi); ELLIS Fellow
 - [ELLIS Board Member](https://ellis.eu/board) 2025-
 - [ELLIS Robust ML Program](https://ellis.eu/programs/robust-machine-learning-group)
