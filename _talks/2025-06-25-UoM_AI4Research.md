@@ -8,6 +8,8 @@ date: 2025-06-25
 location: "Manchester, UK"
 ---
 
+[Centre for AI Fundamentals hosted the AI for Research](https://www.linkedin.com/posts/ai-fun-ellis_aifunmanchester-ai-artificialintelligence-activity-7343976967982964736-Vhkp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAC2nsBY_hOb34KTUQw-TLjFjpCnbperqg)
+
 [More about the Centre for AI Fundamentals](https://www.ai-fun.manchester.ac.uk)
 
 I opened the university-wide event with Prof. Caroline Jay, and joined a panel chaired by Prof Magnus Rattray. In the intro I
