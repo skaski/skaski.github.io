@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+* I am hiring to my team: Postdocs and research fellows, in ELLIS Institute Finland ([link](https://www.aalto.fi/en/open-positions/postdoctoral-researcher-positions-in-probabilistic-machine-learning-research-group-aalto-university-1?check_logged_in=1)) and Manchester Centre for AI Fundamentals ([link](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=33690&advert=external)) *
+
 I am the founding director of [ELLIS Institute
 Finland](https://ellisinstitute.fi), a Machine Learning Professor
 operating 50-50 in the UK and Finland.  In Finland I also lead the
