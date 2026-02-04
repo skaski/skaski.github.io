@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am hiring to my team: Postdoc positions at ELLIS Institute Finland** [joint call includes co-supervision across many excellent teams](also many other excellent teams). DL February 9, 2026.
+**I am hiring to my team: Postdoc positions at ELLIS Institute Finland** [joint call includes co-supervision across many excellent teams](https://www.ellisinstitute.fi/postdoc-recruit-2026). DL February 9, 2026.
 
 I am the founding director of [ELLIS Institute
 Finland](https://ellisinstitute.fi), a Machine Learning Professor
