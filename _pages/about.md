@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**I am hiring to my team: Postdoc positions at ELLIS Institute Finland** [joint call includes co-supervision across many excellent teams](https://www.ellisinstitute.fi/postdoc-recruit-2026). DL February 9, 2026.
-
 I am the founding director of [ELLIS Institute
 Finland](https://ellisinstitute.fi), a Machine Learning Professor
 operating 50-50 in the UK and Finland.  In Finland I also lead the
