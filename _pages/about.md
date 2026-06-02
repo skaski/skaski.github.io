@@ -9,7 +9,8 @@ redirect_from:
 
 > [!WARNING]  
 > I am hiring, don't miss out!
-> **Several Postdoctoral researcher and 1-2 doctoral
+
+**Several Postdoctoral researcher and 1-2 doctoral
 researcher positions in machine learning in Kaski Lab, ELLIS Institute
 Finland and Manchester Centre for AI Fundamentals**, DL June 28,
 2026.
