@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-> I am hiring, don't miss out!
+> I am hiring!
 > **Several Postdoctoral researcher and 1-2 doctoral
-researcher positions in**
-> **machine learning in Kaski Lab, ELLIS Institute
-Finland**
-> and Manchester Centre for AI Fundamentals**, DL June 28,
+researcher positions in machine learning in Kaski Lab, ELLIS Institute
+Finland and Manchester Centre for AI Fundamentals**, DL June 28,
 2026.
 > - [Aalto page for ELLIS Institue
 Finland](https://www.aalto.fi/en/open-positions/several-postdoctoral-researcher-and-1-2-doctoral-researcher-positions-in-machine-learning-in-kaski)
