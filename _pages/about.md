@@ -10,6 +10,7 @@ redirect_from:
 > **ELLIS Institute Finland is hiring!** DL September 21, 2026
 > - [Postdocs and doctoral students:](https://www.ellisinstitute.fi/postdoc-and-phd-recruit-autumn-2026) We have many postdoc and PhD positions in the groups of ~50 faculty of this startup institute which is entering its scale-up phase. This is worth checking out!
 > - [Entrepreneurial postdocs:](https://www.ellisinstitute.fi/entrepreneurial-postdoc-recruit-autumn-2026) New thing this year, the plan is to launch a startup/spinoff with an excellent team with competitive advantage from the expertise the candidates and the groups have, and recent and future breakthroughs. Challenging? Very. Worth doing? Apply if you think so...
+
 > I am welcoming candidates from this call as well, to my team and for collaboration with other teams in the institute or elsewhere.
 ---
 
