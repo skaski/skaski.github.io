@@ -11,4 +11,5 @@ redirect_from:
 
 
 [CV](https://kaski-lab.com/files/resume.pdf)
+[List of publications](https://kaski-lab.com/files/kaski_publ.pdf)
 
