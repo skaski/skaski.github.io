@@ -36,5 +36,5 @@ Current activities
 - [AI-DOC](https://fcai.fi/doctoral-program) 100 AI PhDs in Finland
 - Action editor: JMLR, IEEE TPAMI
 - Regularly Area Chair (or equiv) of ML conferences including NeurIPS, ICML, AAAI
-- I am very proud of the 36 PhD students and many postdocs I have mentored. Of my lab alumni, 21 have got faculty positions in Universities and the rest are entrepreneurs or in company positions (~50%) or staff members or postdocs at research institutes
+- I am very proud of the 39 PhD students and many postdocs I have mentored. Of my lab alumni, 28 have got faculty positions in Universities and the rest are entrepreneurs or in company positions (~50%) or staff members or postdocs at research institutes
 
